@@ -166,7 +166,7 @@ static struct regulator *VCAM_CORE_1_2_V;
 #define GPIO_CAM_FLASH_EN		33
 #define EXIF_MODEL		"I-8191N"
 #else
-//#error
+ #error
 #endif
 /***********************************************************/
 /* H/W configuration - End                                 */
